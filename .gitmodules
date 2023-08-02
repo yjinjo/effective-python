@@ -1,0 +1,3 @@
+[submodule "master_code"]
+	path = master_code
+	url = https://github.com/bslatkin/effectivepython.git
